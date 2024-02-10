@@ -1,0 +1,2 @@
+# PythonPiemeri
+Python piemēri
